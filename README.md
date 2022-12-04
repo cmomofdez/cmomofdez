@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cmomofdez
-- 👀 I’m interested in learning about web development.
+- 👀 I’m interested in learning about web development and technical writing.
 - 🌱 I’m currently learning The Odin Project.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me via twitter @CynthFernandez.
